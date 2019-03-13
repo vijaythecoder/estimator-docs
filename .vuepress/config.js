@@ -12,8 +12,7 @@ module.exports = {
         {
           title: 'Group 1',
           children: [
-            '/',
-            'installation'
+            '/'
           ]
         },
         {
