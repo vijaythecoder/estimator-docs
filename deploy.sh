@@ -16,10 +16,10 @@ git init
 git add -A
 git commit -m 'deploy'
 
-# if you are deploying to https://<USERNAME>.github.io
-# git push -f git@github.com:<USERNAME>/<USERNAME>.github.io.git master
+# if you are deploying to https://vijaythecoder.github.io
+git push -f git@github.com:vijaythecoder/vijaythecoder.github.io.git master
 
-# if you are deploying to https://<USERNAME>.github.io/<REPO>
-# git push -f git@github.com:<USERNAME>/<REPO>.git master:gh-pages
+# if you are deploying to https://vijaythecoder.github.io/<REPO>
+git push -f git@github.com:vijaythecoder/estimator-docs.git master:gh-pages
 
 cd -
