@@ -12,4 +12,3 @@ features:
 - title: 🔥 Supercharged imports and exports. 
   details: You can create items or sales by importing csv or excel sheet. Templates are provided for all the imports. You can also export reports, sales, items and other modules.
 ---
-
